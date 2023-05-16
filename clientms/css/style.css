@@ -144,9 +144,9 @@ h2.bnr-txt-w3 {
 	font-size: 5em;
 	letter-spacing: 3.5px;
 	margin: 0.3em 0;
-	background: -webkit-linear-gradient(#e1f5f6, #241c81);
-	background: -moz-linear-gradient(#cfe1e3, #3174d9);
-	background: -o-linear-gradient(#00c6d6, #3193d9);
+	background: -webkit-linear-gradient(#e1f5f6, #fff);
+	background: -moz-linear-gradient(#fff, #fff);
+	background: -o-linear-gradient(#fff, #fff);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
