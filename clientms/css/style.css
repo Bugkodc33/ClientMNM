@@ -1,9 +1,3 @@
-/*--Author: W3Layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
- --*/
-
 
 body {
 	font-family: 'PT Sans', sans-serif;
@@ -144,15 +138,15 @@ ul.nav.nav-pills li {
 }
 
 h2.bnr-txt-w3 {
-	color: #162427;
+	color: #fff;
 	text-transform: capitalize;
 	font-weight: 800;
 	font-size: 5em;
 	letter-spacing: 3.5px;
 	margin: 0.3em 0;
-	background: -webkit-linear-gradient(#00c6d6, #b031d9);
-	background: -moz-linear-gradient(#00c6d6, #b031d9);
-	background: -o-linear-gradient(#00c6d6, #b031d9);
+	background: -webkit-linear-gradient(#e1f5f6, #241c81);
+	background: -moz-linear-gradient(#cfe1e3, #3174d9);
+	background: -o-linear-gradient(#00c6d6, #3193d9);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
@@ -160,13 +154,13 @@ h2.bnr-txt-w3 {
 .bnr-w3pvt h4 {
 	text-transform: uppercase;
 	color: #fff;
-	font-size: 1.1em;
+	font-size: 3em;
 	letter-spacing: 3px;
 }
 
 .bnr-w3pvt p {
 	color: #fff;
-	font-size: 1.1em;
+	font-size: 3em;
 	letter-spacing: 1px;
 }
 
