@@ -58,7 +58,7 @@
                 <div id="home" class="w3ls-banner d-flex  align-items-center justify-content-center">
                     <div class="bnr-w3pvt text-center">
                         <h4>Welcome to!!</h4>
-                        <h2 class="bnr-txt-w3">Bệnh viên IMWC</h2>
+                        <h2 class="bnr-txt-w3">Bệnh viện IMWC</h2>
                         <p>Nơi sức khỏe là số 1</p>
                        
                     </div>
@@ -75,7 +75,7 @@
                         <div class="footer-bottom py-lg-5 py-3">
                           
                             <div class="footer-copy text-center">
-                                <p class="text-dark">Client Management System @ 2019
+                                <p class="text-dark">
                                     
                                 </p>
                             </div>
